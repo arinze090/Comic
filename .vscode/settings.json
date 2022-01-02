@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+  "editor.formatOnType": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active"
+}
